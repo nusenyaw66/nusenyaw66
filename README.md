@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nusenyaw66
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding, AI
+- 🌱 I’m coding in python with cursor
+- 💞️ I’m looking to collaborate on AI related services
 - 📫 How to reach me nusenyaw@gmail.com
 
 <!---
